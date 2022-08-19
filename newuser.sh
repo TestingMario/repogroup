@@ -5,3 +5,4 @@ sudo useradd $username
 echo enter password
 sudo passwd $username
 id $username
+#test
