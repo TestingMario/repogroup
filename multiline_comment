@@ -1,0 +1,14 @@
+#!/bin/bash/
+<<start
+      This script is for file management
+      Run this script only in Linux server 
+      You require sudo access to run this script  
+start
+      # whoami
+       echo "single line comments starts"
+       #This script is for file management
+       #Run this script only in Linux server
+       #You require sudo access to run this script
+       echo "single line comments ends"
+       date
+
