@@ -11,3 +11,4 @@ echo "creating class29 useraccount
 usermgt
 echo "creating class30 useraccount
 usermgt
+#date
